@@ -1,6 +1,8 @@
-# 📋 Notion Weekly Tasks
+# Notion Weekly Tasks
 
 Script Python que lê um database do Notion e exibe um resumo semanal de tarefas direto no terminal — agrupado por status, com prioridade alta em destaque.
+
+Além de rodar como .bat, planejo fazer essa funcionalidade como um PyInstaller em um futuro próximo.
 
 ---
 
